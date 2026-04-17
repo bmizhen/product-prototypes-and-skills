@@ -8,7 +8,7 @@ When asked to build or iterate on a prototype, use the Agent tool — don't writ
 - Otherwise use `subagent_type: general-purpose`.
 - Pass the target path from below.
 
-No exceptions — always delegate, even for one-line tweaks.
+No exceptions — always delegate, even for one-line tweaks!
 
 ## Save to `~/Prototypes/`
 
