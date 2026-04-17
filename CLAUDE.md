@@ -9,7 +9,7 @@ When the user asks to build, design, mock up, or iterate on a prototype (UI mock
 - Pass the target output path (see below) to the subagent so it writes the file in the right place.
 - After the subagent returns, relay a concise summary and the file path to the user.
 
-Exception: trivial tweaks to an existing prototype file (a typo, a color change, a one-line copy edit) can be done inline. Anything involving structure, layout, new screens, or multi-file work goes through a subagent.
+No Exceptions, ALLWAYS ALLWAYS write code in a subagent.
 
 ## Save all prototypes to `~/Prototypes/`
 
